@@ -1,24 +1,24 @@
 # Peter Neyra
 
-[Atelier Neyra](https://atelierneyra.com) is my design studio. These repositories contain projects I have designed and built.
+I design & build whole things.
 
-| Project | Description |
-| --- | --- |
-| [Rocoto](https://github.com/latintzar/ai-native-erp) | AI-native ERP for fresh-food distributors |
-| [Disdat](https://github.com/latintzar/disdat) | Spoken browser feedback grounded in DOM and page state for coding agents |
-| [Farm-to-restaurant route planner](https://github.com/latintzar/farm-to-restaurant-route-planner) | VROOM-based route planning for decentralised farm-to-table logistics |
-| [Harness](https://github.com/latintzar/harness) | Codex-based, vertical-adaptable agent harness with generative UI |
-| [Rocoto Peru](https://github.com/latintzar/whatsapp-shop-workspace) | Mobile AI-native ERP matching bodegas’ Yape/Plin payments to WhatsApp orders |
-| [Leo.casa](https://github.com/latintzar/renovation-marketplace) | Renovation offers, editable quote canvases, chat and milestone payments |
-| [Leo Estimate](https://github.com/latintzar/renovation-estimates) | Property-specific renovation estimates with room breakdowns and before-and-after images |
-| [Home Matching](https://github.com/latintzar/home-matching) | Property matching against a household’s weighted preferences |
-| [Video Search](https://github.com/latintzar/camera-video-search) | Cosmos-based camera-footage search with traceable model observations |
-| [Cancha](https://github.com/latintzar/cancha-tv) | Free Latin American internet TV on Android TV for the 2026 World Cup |
-| [Manufacturer order desk](https://github.com/latintzar/manufacturer-order-desk) | Manufacturer catalogues, sales quotes and an agent-connected order desk |
-| [Vitrina](https://github.com/latintzar/local-grocery-waitlist) | Original Sofia grocery waitlist and shopping-preferences survey |
-| [Social Recipes](https://github.com/latintzar/instagram-recipe-cart) | Instagram recipe Reels turned into carts with a local grocery service |
-| [Hermes Caller](https://github.com/latintzar/hermes-caller) | Android Twilio dialer with call recording and Deepgram transcription |
+[Atelier Neyra](https://atelierneyra.com) · [Apps](https://preview.atelierneyra.com) · [Documentation](https://docs.atelierneyra.com)
 
-[Documentation](https://docs.atelierneyra.com) · [Open apps](https://preview.atelierneyra.com)
+| Project | What it is | Website |
+| --- | --- | --- |
+| [Rocoto](https://github.com/latintzar/ai-native-erp) | AI-native ERP for food distributors | [Website](https://soyrocoto.com) |
+| [DisDat.dev](https://github.com/latintzar/disdat) | A Chrome extension for recording feedback for coding agents | [Website](https://disdat.dev) |
+| [Rocoto Peru](https://github.com/latintzar/whatsapp-shop-workspace) | Mobile AI-native ERP matching bodegas’ Yape/Plin payments to WhatsApp orders | [Website](https://atelierneyra.com/peru) |
+| [Harness](https://github.com/latintzar/harness) | A Codex-based agent harness with generative UI | [Website](https://atelierneyra.com/harness) |
+| [Farm-to-restaurant route planner](https://github.com/latintzar/farm-to-restaurant-route-planner) | VROOM-based routing for farm-to-table deliveries | [Website](https://atelierneyra.com/route-planner) |
+| [Leo Estimate](https://github.com/latintzar/renovation-estimates) | Room-by-room renovation estimates from a property listing | [Website](https://atelierneyra.com/renovation-estimates) |
+| [Home Matching](https://github.com/latintzar/home-matching) | Home search ranked around how a household lives | [Website](https://atelierneyra.com/home-matching) |
+| [Leo.casa](https://github.com/latintzar/renovation-marketplace) | Renovation quotes, project chat and milestone payments | [Website](https://leo.casa) |
+| [Vitrina Local](https://github.com/latintzar/vitrina-local) | Recipes and shopping baskets from nearby independent shops | [Website](https://atelierneyra.com/vitrina) |
+| [Video Search](https://github.com/latintzar/camera-video-search) | Cosmos-based search and review for camera footage | [Website](https://atelierneyra.com/video) |
+| [Manufacturer order desk](https://github.com/latintzar/manufacturer-order-desk) | Catalogues, quotes and orders for hardware manufacturers | [Website](https://atelierneyra.com/manufacturer-order-desk) |
+| [Cancha](https://github.com/latintzar/cancha-tv) | Free Latin American internet TV on Android TV | [Website](https://atelierneyra.com/cancha) |
+| [Social Recipes](https://github.com/latintzar/social-recipes-kit) | Extract recipes and video from social Reels | [Website](https://atelierneyra.com/social-recipes) |
+| [Hermes Caller](https://github.com/latintzar/hermes-caller) | An Android Twilio dialer with call recording and transcription | [Website](https://atelierneyra.com/hermes-caller) |
 
 [made by atelier neyra](https://atelierneyra.com)
