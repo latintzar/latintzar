@@ -1,4 +1,4 @@
-[![Atelier Neyra](https://atelierneyra.com/assets/brand/atelier-github-20261101.png)](https://atelierneyra.com)
+[![Atelier Neyra](https://atelierneyra.com/assets/brand/atelier-github-20261101-v3.png)](https://atelierneyra.com)
 
 # Peter Neyra
 
