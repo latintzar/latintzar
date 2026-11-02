@@ -4,12 +4,12 @@
 
 I solve customer problems with stuff that engulfs, creates, moves, and senses
 
-[Portfolio](https://atelierneyra.com) · [Hardware](https://atelierneyra.com/hardware/) · [Software](https://atelierneyra.com/software/) · [Demos](https://preview.atelierneyra.com) · [Documentation](https://docs.atelierneyra.com)
+[Portfolio](https://atelierneyra.com) · [Hardware](https://atelierneyra.com/hardware/) · [Web Experiences](https://atelierneyra.com/web-experiences/) · [Software](https://atelierneyra.com/software/) · [Demos](https://preview.atelierneyra.com) · [Documentation](https://docs.atelierneyra.com)
 
 ## Selected work
 
 - [Panel Speakers](https://atelierneyra.com/hardware/panel-speakers) — Handmade DML speakers and a spatial DJ system. [Build record](https://github.com/latintzar/panel-speakers).
-- [Messier ’57](https://atelierneyra.com/hardware/messier-57) — An electric drum with an acoustic playing surface.
+- [Messier ’57](https://atelierneyra.com/hardware/messier-57) — An electric drum with an acoustic playing surface. [Instrument and CAD](https://github.com/latintzar/messier57-instrument).
 - [Rocoto](https://github.com/latintzar/ai-native-erp) — AI-native ERP for food distributors.
 - [DisDat.dev](https://github.com/latintzar/disdat) — A Chrome extension for recording feedback for coding agents.
 - [Harness](https://github.com/latintzar/harness) — A Codex-based agent harness with generative UI.
