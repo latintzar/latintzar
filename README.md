@@ -10,6 +10,7 @@ I solve customer problems with stuff that engulfs, creates, moves, and senses
 
 - [Panel Speakers](https://atelierneyra.com/hardware/panel-speakers) — Handmade DML speakers and a spatial DJ system. [Build record](https://github.com/latintzar/panel-speakers).
 - [Messier ’57](https://atelierneyra.com/hardware/messier-57) — An electric drum with an acoustic playing surface. [Instrument and CAD](https://github.com/latintzar/messier57-instrument).
+- [Artisan Glove](https://atelierneyra.com/hardware/tactile-glove) — A sensing-glove design for hand contact, vibration and video. [PCB, CAD and firmware](https://github.com/latintzar/tactile-glove).
 - [Rocoto](https://github.com/latintzar/ai-native-erp) — AI-native ERP for food distributors.
 - [DisDat.dev](https://github.com/latintzar/disdat) — A Chrome extension for recording feedback for coding agents.
 - [Harness](https://github.com/latintzar/harness) — A Codex-based agent harness with generative UI.
